@@ -1,0 +1,63 @@
+body
+{
+    background-color: rgb(162, 44, 192);
+}
+.ics img
+{
+    height: 300px;
+    width: 250px;
+    margin-top: -55px;
+}
+.ics h1
+{
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 250px;
+    margin-top: -160px;
+}
+.ics h3
+{
+    margin-left: 250px;
+}
+.heading ul
+{
+    font-family: 'Courier New', Courier, monospace;
+    list-style-type: none;
+    font-size: large;
+    margin-left: 150gitpx;
+}
+.heading li
+{
+    display: inline;
+    margin-left: 60px;
+}
+.address
+{
+    margin-left: 250px;
+}
+.address ul
+{
+    list-style-type: none;
+    font-size: 20px;  
+}
+.address li
+{
+    line-height: 27px;
+}
+.course table
+{
+    margin-left: 250px;
+}
+.gallery img
+{
+    width: 100px;
+}
+.gallery
+{
+    margin-left: 250px;
+}
+.contact
+{
+    margin-left: 250px;
+}
+
+    
